@@ -7,3 +7,6 @@
 ```
 pip install cx_oracle
 ```
+```
+pip install cx_oracle
+```
